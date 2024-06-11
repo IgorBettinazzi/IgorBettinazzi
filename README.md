@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a brazilian guy from carapicuiba - SP 
+I'm a brazilian guy from Osasco - SP 
 <!--
 **IgorBettinazzi/IgorBettinazzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
